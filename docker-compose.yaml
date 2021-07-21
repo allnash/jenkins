@@ -3,4 +3,4 @@ version: '2'
 services:
   man:
     build: .
-    image: allnash/jenkins:v1
+    image: allnash/jenkins:v1.1
